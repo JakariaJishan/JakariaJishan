@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jakaria+Jishan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jakaria+Jishan..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -80,25 +80,6 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/jakariajishan/to-do-list" title="to-do-list"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jakariajishan&repo=to-do-list&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/jakariajishan/Awesome-book-es6" title="Awesome-book-es6"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jakariajishan&repo=Awesome-book-es6&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/jakariajishan/Capstone-1" title="Capstone-1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jakariajishan&repo=Capstone-1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jakariajishan/portfolio-microverse" title="portfolio-microverse"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jakariajishan&repo=portfolio-microverse&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/jakariajishan/doc-portal" title="doc-portal"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jakariajishan&repo=doc-portal&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jakariajishan/charity-app" title="charity-app"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jakariajishan&repo=charity-app&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<br><br><br><br><br><br>
 
 <h4 align="center">
   <a href="https://github.com/jakariajishan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
