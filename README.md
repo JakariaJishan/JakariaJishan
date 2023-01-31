@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/jakaria-jishan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/jakariajishan006" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://twitter.com/jakaria_jishan" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://twitter.com/jakaria_jishan" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
   <code><a href="https://www.instagram.com/jakaria_jishan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
