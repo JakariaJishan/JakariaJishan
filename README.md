@@ -2,7 +2,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jakaria+Jishan..;Nice+to+meet+you!&center=true&size=30">
+
+   ![image](https://user-images.githubusercontent.com/73704727/229622012-c0086862-ca79-4344-bdba-5a2bcb2f8729.png)
   </a>
 </h1>
 
@@ -34,7 +35,7 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
+<p align="center" >
   <code><img title="C" height="40" src="images/c.svg"></code>
   <code><img title="Python" height="40" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
@@ -76,11 +77,7 @@
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jakariajishan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
 
-<h4 align="center">
-  <a href="https://github.com/jakariajishan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
