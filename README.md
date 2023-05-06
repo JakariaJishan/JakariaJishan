@@ -21,10 +21,6 @@
   Hi, I'm Jakaria Jishan, Computer Engineer & Software Developer from Bangladesh
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in South Asia University Computer Engineering Department
-  <br>
-  🎓 I graduated from Adamjee Cantonment College Science Department
-  <br>
   💻 I love writing code and learn anythings about new technologies
   <br>
   📚 Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.
