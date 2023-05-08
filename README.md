@@ -5,7 +5,8 @@
 <!--    ![image](https://user-images.githubusercontent.com/73704727/229622012-c0086862-ca79-4344-bdba-5a2bcb2f8729.png) -->
 <!--    ![jakaria jishan](https://user-images.githubusercontent.com/73704727/229840356-f3264311-7428-46b1-9889-33d2e972f341.png) -->
 
-  </a>  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif">
+  </a>  
+  <img width="600" src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif">
 
 </h1>
 
