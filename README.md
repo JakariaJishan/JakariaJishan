@@ -6,7 +6,7 @@
 <!--    ![jakaria jishan](https://user-images.githubusercontent.com/73704727/229840356-f3264311-7428-46b1-9889-33d2e972f341.png) -->
 
   </a>  
-  <img width="600" src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif">
+  <img width="500" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 </h1>
 
@@ -15,14 +15,14 @@
     <a href="https://www.linkedin.com/in/jakaria-jishan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/jakariajishan006" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/jakaria_jishan" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/jakaria_jishan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  
 </h5>
 <br>
 <p align="center">
   Hi, I'm Jakaria Jishan, Computer Engineer & Software Developer from Bangladesh
   <br>
   <br>
-  💻 I love writing code and learn anythings about new technologies
+  💻 I love writing code and learning anythings about new technologies
   <br>
   📚 Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.
   <br>
@@ -36,7 +36,6 @@
 <br>
 <p align="center" >
   <code><img title="C" height="40" src="images/c.svg"></code>
-  <code><img title="Python" height="40" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="40" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="40" src="images/html5.svg"></code>
@@ -46,14 +45,11 @@
   <code><img title="Redux" height="40" src="images/redux.svg"></code>
   <code><img title="Git" height="40" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="40" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="40" src="images/java-original.svg"></code>
   <code><img title="JSON" height="40" src="images/json.svg"></code>
   <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <code><img title="MySQL" height="40" src="images/mysql.svg"></code>
   <code><img title="npm" height="40" src="images/npm.svg"></code>
-  <code><img title="PHP" height="40" src="images/php.svg"></code>
 </p>
 <hr>
 
